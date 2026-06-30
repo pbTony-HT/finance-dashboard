@@ -11,7 +11,7 @@
 
 ## Запуск
 ```bash
-git clone <repo-url>
+git clone https://github.com/pbTony-HT/finance-dashboard
 cd finance-dashboard
 npm install
 npm run dev
