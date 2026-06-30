@@ -2,6 +2,9 @@
 
 Приложение для учёта доходов и расходов с графиками и фильтрами.
 
+## Демо
+🔗 [Открыть дашборд](https://finance-dashboard.vercel.app)
+
 ## Стек
 - Vite + React + TypeScript
 - Tailwind CSS
